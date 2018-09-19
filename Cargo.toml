@@ -1,0 +1,10 @@
+[package]
+name = "hw3"
+version = "0.1.0"
+authors = ["Diana Zheng <dyzheng@syr.edu>"]
+
+[dependencies]
+
+[[bin]]
+name = "hw3"
+path = "main.rs"
